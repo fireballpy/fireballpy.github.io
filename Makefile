@@ -21,5 +21,5 @@ help:
 
 github:
 	@make html
-	rsync -av --delete build/html/ docs
+	rsync -avzhie --delete build/html/ docs
 
