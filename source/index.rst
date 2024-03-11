@@ -7,7 +7,7 @@ Fireballpy
    :maxdepth: 1
          
    
-   source/fireballpy.rst
+   fireballpy.rst
 
 
 .. .. toctree::
